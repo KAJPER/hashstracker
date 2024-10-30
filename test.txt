@@ -1,0 +1,4 @@
+[Dodano] Nowy plik: C:\Users\gordu\Desktop\projekty\hashstracker\pedal.txt
+[Dodano] Nowy plik: C:\Users\gordu\Desktop\projekty\hashstracker\euj.txt
+[Zmiana] Zmieniono plik: C:\Users\gordu\Desktop\projekty\hashstracker\hashtracker.py
+[Dodano] Nowy plik: C:\Users\gordu\Desktop\projekty\hashstracker\test.txtsdfhsfhdsfhdfs
